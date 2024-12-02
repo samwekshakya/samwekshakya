@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Samwek Siddhi Shakya</h1>
-<h3 align="center">A passionate, enthusiastic IT student with a growing interest in data analytics and science. With foundational knowledge in Java, SQL, and Excel, I aim to deepen my expertise in data visualization, statistical analysis, and machine learning.</h3>
+<h3 align="center">A passionate, enthusiastic IT student with a growing interest in data analytics, science and engineering. With foundational knowledge in Java, SQL, and Excel, I aim to deepen my expertise in data visualization, statistical analysis, and machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samwekshakya&label=Profile%20views&color=0e75b6&style=flat" alt="samwekshakya" /> </p>
 
