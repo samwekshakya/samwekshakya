@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samwekshakya&label=Profile%20views&color=0e75b6&style=flat" alt="samwekshakya" /> </p>
 
-- 🔭 I’m currently working on **Data Analyst focused projects**
+- 🔭 I’m currently working on **Data Sciences focused projects**
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Sciences**
 
 - 👨‍💻 All of my projects are available at [https://github.com/samwekshakya?tab=repositories](https://github.com/samwekshakya?tab=repositories)
 
